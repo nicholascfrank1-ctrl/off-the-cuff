@@ -1,11 +1,11 @@
 # Off the Cuff
 
-An impromptu speaking practice website with 1,439 prompts, including 508 quotations.
+An impromptu speaking practice website with 889 prompts, including 508 quotations.
 
 - Filter prompts by type or adjust their odds in random draws.
 - Draw one prompt or spin three wheels side by side.
 - Prepare for two minutes, then use a full-screen six-minute speaking timer.
-- Optionally start prep automatically when a prompt is selected. Three-prompt draws wait for a choice.
+- Optionally start prep automatically as soon as the wheels finish spinning, for both one- and three-prompt draws.
 - Preferences are saved in the current browser.
 
 ## Run locally
